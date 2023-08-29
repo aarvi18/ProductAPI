@@ -30,17 +30,7 @@
         "rating": "4.5 *"
     }
     {
-        "id": "rakeshserialnoc",
-        "name": "Dark Chocolate",
-        "flavour": "chocolate",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvCRsR1Pn7jG-p8-bsTLRKBPLRnUak2w3uA&usqp=CAU",
-        "price": 999,
-        "category": "cake",
-        "featured": true,
-        "rating": "4.5 *"
-    }
-    {
-        "id": "rakeshserialnoc",
+        "id": "rakeshserialnod",
         "name": "Dark Chocolate",
         "flavour": "chocolate",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvCRsR1Pn7jG-p8-bsTLRKBPLRnUak2w3uA&usqp=CAU",
